@@ -7,11 +7,11 @@ The dataset comprised of CustomerID, Gender, Age, Annual Income, and Spending Sc
 # Dataset
 The dataset used in this analysis contains the following features:
 
-CustomerID: Unique identifier for each customer.
-Gender: Customer's gender (Male or Female).
-Age: Customer's age.
-Annual Income (k$): Customer's annual income in thousands of dollars.
-Spending Score (1-100): Score representing customer's spending habits and preferences, ranging from 1 (low spending) to 100 (high spending).
+CustomerID: Unique identifier for each customer.  
+Gender: Customer's gender (Male or Female).  
+Age: Customer's age.  
+Annual Income (k$): Customer's annual income in thousands of dollars.  
+Spending Score (1-100): Score representing customer's spending habits and preferences, ranging from 1 (low spending) to 100 (high spending).  
 
 # Dependencies
 The following dependencies are required to run this project:
